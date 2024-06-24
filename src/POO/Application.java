@@ -10,6 +10,7 @@ public class Application {
         Scanner stdin = new Scanner(System.in);
         double xA, xB, xC, yA, yB, yC;
 
+
         System.out.println("Enter the measures of triangle X: ");
         xA = stdin.nextDouble();
         xB = stdin.nextDouble();
